@@ -6,7 +6,7 @@
 
 This dataset provides insights into the New York City education system across Asian and Hispanic catagories. The students have different eudcation scale scores across multiple grades. I hope that this visual graph can help provide insight on race, grades, and mean scale scores to depict the a small part of the New York education system. [Data Set](https://data.cityofnewyork.us/Education/2006-2011-NYS-Math-Test-Results-by-Grade-Citywide-/825b-niea)
 <br>
-![Data Set 1 Graph]("https://github.com/Jblachman/hw02/blob/main/meanScaleScore.jpg")
+![Data Set 1 Graph]("file:///C:/Users/14257/OneDrive/Documents/Computer%20Science/Hw%207/Hw%2010.26/HW02/HW02/indicatorValue.jpg")
 <br>
 
 ## Average Sea Level Pressure compared to Air Temperature for Ocean Waters Off the Maine Coast ##
