@@ -1,4 +1,3 @@
-
 <h1> HW 02 Data Sets </h1>
 
 ## Mean Scale Score for Asian and Hispanic Students, Grades 3 - 8 ## 
@@ -6,7 +5,7 @@
 
 This dataset provides insights into the New York City education system across Asian and Hispanic catagories. The students have different eudcation scale scores across multiple grades. I hope that this visual graph can help provide insight on race, grades, and mean scale scores to depict the a small part of the New York education system. [Data Set](https://data.cityofnewyork.us/Education/2006-2011-NYS-Math-Test-Results-by-Grade-Citywide-/825b-niea)
 <br>
-![Data Set 1 Graph]("file:///C:/Users/14257/OneDrive/Documents/Computer%20Science/Hw%207/Hw%2010.26/HW02/HW02/indicatorValue.jpg")
+![meanScaleScore](https://user-images.githubusercontent.com/90061544/139011722-8df72abb-8313-41c3-8c40-be9b60401187.jpg)
 <br>
 
 ## Average Sea Level Pressure compared to Air Temperature for Ocean Waters Off the Maine Coast ##
@@ -15,7 +14,7 @@ This dataset provides insights into the New York City education system across As
 This data set compares years and indicater values for murder rates across New Orleans and cities of Atlanta, Nashville, Oklahoma City, Tampa, Miami, Memphis, Raleigh, and Baton Rouge. The bar graph should depict violent crime cases across numerous years.  Hopefully we can get a better sense of both gun violence in crime across the United States.  I feel like we haven't heard a lot about gun violence in the news lately and I hope to spread some more awareness through this graph. [Data Set](https://data.nola.gov/Public-Safety-and-Preparedness/Murders-Violent-Crime-Rate-and-Property-Crime-Rate/kirw-4rbx)
 
 <br>
-![Data Set 2 Graph]("./indicatorValue.jpg")
+![indicatorValue](https://user-images.githubusercontent.com/90061544/139011913-cb482f42-eca4-4bf3-a55e-5db5dac572e2.jpg)
 <br>
 
 ## Link to Project Instruction Homepage ##
